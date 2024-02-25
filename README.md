@@ -58,3 +58,8 @@ The platform is themed around **Classroom Management**, **Job Finding**, and fin
 - **File Storage**: AWS S3 Bucket for uploading files
 - **Email Service**: Nodemailer with SMTP from Gmail for notifications and alerts
 - **External APIs**: YouTube API for fetching course recommendations, g2plot for data visualization
+
+## Default Credentials
+
+- **Superadmin Email**: labesh@superadmin.com
+- **Password**: Labesh@123
