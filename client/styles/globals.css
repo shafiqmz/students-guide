@@ -1,0 +1,118 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;700&display=swap');
+@import url('https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: 'Quicksand', sans-serif !important;
+}
+
+.custom-dialog {
+  width: 1000px !important;
+  border-radius: 8px !important;
+}
+
+.custom-file-input {
+  background-color: #0077cc !important;
+  color: white !important;
+  padding: 8px 16px !important;
+  border: none !important;
+  border-radius: 4px !important;
+  cursor: pointer !important;
+  display: inline-block !important;
+  margin-left: 16px !important;
+}
+
+.avatar-profile-pic {
+  width: 100px !important;
+  height: 100px !important;
+  cursor: pointer !important;
+}
+
+.avatar-profile-pic:hover {
+  opacity: 0.5 !important;
+}
+
+::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #FF8800;
+  border-radius: 5px;
+}
+
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+::-webkit-scrollbar-corner {
+  background: transparent;
+}
+
+.MuiChip-deleteIconMedium {
+  color: white !important;
+}
+
+.drawer-background {
+  background-color: #F0F2F5 !important;
+  top: 60px !important;
+  border-right: none !important;
+  z-index: 98 !important;
+}
+
+.drawer-width {
+  width: 30%
+}
+
+@media (max-width: 800px) {
+  .drawer-width {
+    width: 50%;
+  }
+}
+
+@media (max-width: 500px) {
+  .drawer-width {
+    width: 70%;
+  }
+}
+
+button {
+  outline: none !important;
+}
+
+.lds-ring {
+  position: relative;
+  width: 16px;
+  height: 16px;
+}
+.lds-ring div {
+  box-sizing: border-box;
+  display: block;
+  position: absolute;
+  width: 16px;
+  height: 16px;
+  border: 2px solid #fff;
+  border-radius: 50%;
+  animation: lds-ring 1.2s cubic-bezier(0.5, 0, 0.5, 1) infinite;
+  border-color: #fff transparent transparent transparent;
+}
+.lds-ring div:nth-child(1) {
+  animation-delay: -0.45s;
+}
+.lds-ring div:nth-child(2) {
+  animation-delay: -0.3s;
+}
+.lds-ring div:nth-child(3) {
+  animation-delay: -0.15s;
+}
+@keyframes lds-ring {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}

@@ -1,0 +1,342 @@
+[
+    {
+        "kind": "youtube#searchResult",
+        "etag": "XLte8j8uY4E7NuL4BVMwdmiEenk",
+        "id": {
+            "kind": "youtube#playlist",
+            "playlistId": "PLoROMvodv4rOca_Ovz1DvdtWuz8BfSWL2"
+        },
+        "snippet": {
+            "publishedAt": "2022-04-15T18:57:33Z",
+            "channelId": "UCBa5G_ESCn8Yd4vw5U-gIcg",
+            "title": "Stanford CS221: Artificial Intelligence: Principles and Techniques | Autumn 2021",
+            "description": "For more information about Stanford's Artificial Intelligence professional and graduate programs visit: https://stanford.io/ai.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/ZiwogMtbjr4/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/ZiwogMtbjr4/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/ZiwogMtbjr4/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Stanford Online",
+            "liveBroadcastContent": "none",
+            "publishTime": "2022-04-15T18:57:33Z"
+        }
+    },
+    {
+        "kind": "youtube#searchResult",
+        "etag": "H8Nx-vxo2LJHBx-msUM3h9ZeSf0",
+        "id": {
+            "kind": "youtube#playlist",
+            "playlistId": "PLQIX_E46U4XYE5GR6029FpnaX9aBXbt0B"
+        },
+        "snippet": {
+            "publishedAt": "2018-01-04T22:59:52Z",
+            "channelId": "UCn_9JaRbO2jia6HFwqFnzww",
+            "title": "Princeton Bitcoin/Blockchain Course",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/fOMVZXLjKYo/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/fOMVZXLjKYo/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/fOMVZXLjKYo/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Harold Hesh Frydman",
+            "liveBroadcastContent": "none",
+            "publishTime": "2018-01-04T22:59:52Z"
+        }
+    },
+    {
+        "kind": "youtube#searchResult",
+        "etag": "zFq6gikgTEN8dtOKnXJ8OpbSG_w",
+        "id": {
+            "kind": "youtube#playlist",
+            "playlistId": "PLMaaWAnq0jTIRv1WYr_wtoDjDjkppoTRp"
+        },
+        "snippet": {
+            "publishedAt": "2023-02-22T16:06:32Z",
+            "channelId": "UCSONefu728Jzel0shpb-mww",
+            "title": "Introduction to Artificial intelligence in Digital Marketing",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/-DvGk-7Rk74/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/-DvGk-7Rk74/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/-DvGk-7Rk74/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Qasim Umer",
+            "liveBroadcastContent": "none",
+            "publishTime": "2023-02-22T16:06:32Z"
+        }
+    },
+    {
+        "kind": "youtube#searchResult",
+        "etag": "ZiASL5JMI-dquAyfFWwwjn8c_6k",
+        "id": {
+            "kind": "youtube#playlist",
+            "playlistId": "PL4cssHcC4ZQtqkgSHFFkH9glggmD6dUPN"
+        },
+        "snippet": {
+            "publishedAt": "2023-02-18T22:40:48Z",
+            "channelId": "UCnQdUggmFjh3o6E3iiPhfLw",
+            "title": "From Beginner to Blockchain Pro: Siddharth Menon&#39;s Master Class on Blockchain&quot;",
+            "description": "Welcome to the ultimate master class course on blockchain investing! In this playlist, join Siddharth Menon, the co-founder of ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/nzrnikb5gnI/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/nzrnikb5gnI/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/nzrnikb5gnI/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Siddharth Menon",
+            "liveBroadcastContent": "none",
+            "publishTime": "2023-02-18T22:40:48Z"
+        }
+    },
+    {
+        "kind": "youtube#searchResult",
+        "etag": "dgr5hWNtM9RAKWF6kqKFZmwjvbs",
+        "id": {
+            "kind": "youtube#playlist",
+            "playlistId": "PL5B4lsKp6FVwNmhIsgKjV9UNJfcL6QpT5"
+        },
+        "snippet": {
+            "publishedAt": "2022-12-08T06:03:17Z",
+            "channelId": "UCFPrsu8zugEEEDfPmwA-L8A",
+            "title": "Artificial Intelligence - NTA UGC NET Computer Science",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/95N7LsLv9PQ/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/95N7LsLv9PQ/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/95N7LsLv9PQ/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "UGC NET JRF & SET Paper 1",
+            "liveBroadcastContent": "none",
+            "publishTime": "2022-12-08T06:03:17Z"
+        }
+    },
+    {
+        "kind": "youtube#searchResult",
+        "etag": "t2FE5Wz45quofXNSKMZKeQ-mkkg",
+        "id": {
+            "kind": "youtube#playlist",
+            "playlistId": "PLVLoWQFkZbhVrc2XEyxrkyzQ7HbzkBA3L"
+        },
+        "snippet": {
+            "publishedAt": "2021-07-28T07:47:36Z",
+            "channelId": "UC3HS6gQ79jjn4xHxogw0HiA",
+            "title": "Class 9 Artificial Intelligence (New Session 2023-24) | Complete CBSE Course | All Topics Available",
+            "description": "Watch Full Free Course:- https://www.magnetbrains.com ✔️     Get Notes Here: https://www.pabbly.com/out/magnet-brains In ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/aPQBth81VOA/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/aPQBth81VOA/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/aPQBth81VOA/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Magnet Brains",
+            "liveBroadcastContent": "none",
+            "publishTime": "2021-07-28T07:47:36Z"
+        }
+    },
+    {
+        "kind": "youtube#searchResult",
+        "etag": "fDqzYwojD5r-mapAiPvnhu-MyOA",
+        "id": {
+            "kind": "youtube#playlist",
+            "playlistId": "PLS5SEs8ZftgVnWHv2_mkvJjn5HBOkde3g"
+        },
+        "snippet": {
+            "publishedAt": "2020-03-31T17:05:36Z",
+            "channelId": "UCY0xL8V6NzzFcwzHCgB8orQ",
+            "title": "Master Solidity for Blockchain",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/pqxNmdwEHio/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/pqxNmdwEHio/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/pqxNmdwEHio/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Dapp University",
+            "liveBroadcastContent": "none",
+            "publishTime": "2020-03-31T17:05:36Z"
+        }
+    },
+    {
+        "kind": "youtube#searchResult",
+        "etag": "EscJvXi9A4BdZTYBcy63fI3EQc8",
+        "id": {
+            "kind": "youtube#playlist",
+            "playlistId": "PLrMUYe5kmMJc6khLup-h9st5-TsyxmvRH"
+        },
+        "snippet": {
+            "publishedAt": "2019-02-26T10:31:59Z",
+            "channelId": "UCJlX7iMt6AtQ17g8HaYrhUA",
+            "title": "4. Blockchain technical deep dive",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/bBC-nXj3Ng4/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/bBC-nXj3Ng4/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/bBC-nXj3Ng4/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Byorl Art",
+            "liveBroadcastContent": "none",
+            "publishTime": "2019-02-26T10:31:59Z"
+        }
+    },
+    {
+        "kind": "youtube#searchResult",
+        "etag": "JXILKxZicdSRcAWU4Rgt1S5TInU",
+        "id": {
+            "kind": "youtube#playlist",
+            "playlistId": "PLeshjkGHpKs6RX30i-qG0CB5m_RICaIgX"
+        },
+        "snippet": {
+            "publishedAt": "2022-06-03T14:41:58Z",
+            "channelId": "UCxOOJ_cvniWxMhmhK2KG6yQ",
+            "title": "Blockchain &amp; Sustainable Economic Growth 2022",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/xbR8xZtm-hc/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/xbR8xZtm-hc/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/xbR8xZtm-hc/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Government Blockchain Association",
+            "liveBroadcastContent": "none",
+            "publishTime": "2022-06-03T14:41:58Z"
+        }
+    },
+    {
+        "kind": "youtube#searchResult",
+        "etag": "zGgLXnLvuOT0o-WGl1PxGPu8r3g",
+        "id": {
+            "kind": "youtube#playlist",
+            "playlistId": "PLO4GrDnQanVe6F6MRJg_KO7JEoH-ukFzY"
+        },
+        "snippet": {
+            "publishedAt": "2020-01-07T15:26:06Z",
+            "channelId": "UCUzGQrN-lyyc0BWTYoJM_Sg",
+            "title": "Most used Artificial Intelligence terms clearly explained to everyone",
+            "description": "In this series of videos I try to explain the most used terms in the field of Artificial Intelligence for the average person in less than 5 ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/M_M2YL8VpJM/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/M_M2YL8VpJM/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/M_M2YL8VpJM/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "What's AI by Louis-François Bouchard",
+            "liveBroadcastContent": "none",
+            "publishTime": "2020-01-07T15:26:06Z"
+        }
+    }
+]
